@@ -28,10 +28,12 @@
 
 
 <h2>GitHub Stats </h2>
-
-<a href="https://github.com/anuraghazra/convoychat">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulfranck&" alt="mul franck streak"/>
+</p>
+<a href="http://github.com/mulfranck">
   <img src="https://github-readme-stats.vercel.app/api?username=mulfranck&show_icons=true&hide=issues&" width=53%/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mulfranck">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact" width=46% />
 </a>
