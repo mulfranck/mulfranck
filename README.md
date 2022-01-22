@@ -32,8 +32,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulfranck&" alt="mul franck streak"/>
 </p>
 <a href="http://github.com/mulfranck">
-  <img src="https://github-readme-stats.vercel.app/api?username=mulfranck&show_icons=true&hide=issues&" width=53%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mulfranck&show_icons=true&hide=issues&"/>
 </a>
 <a href="https://github.com/mulfranck">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact" width=46% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact"/>
 </a>
