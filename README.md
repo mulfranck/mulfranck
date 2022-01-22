@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [Javascript Calculator](github.com/mulfranck/calculator)
-- 🌱 I’m currently learning **Vanilla Javascript**
+- 🌱 I’m currently learning **Vanilla Javascript** and **Python (school required)**
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
@@ -32,8 +32,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulfranck&" alt="mul franck streak"/>
 </p>
 <a href="http://github.com/mulfranck">
-  <img src="https://github-readme-stats.vercel.app/api?username=mulfranck&show_icons=true&hide=issues&"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mulfranck&show_icons=true" width=450px height=100%/>
 </a>
 <a href="https://github.com/mulfranck">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact" width=450px height=100%/>
 </a>
