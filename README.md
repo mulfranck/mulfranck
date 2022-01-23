@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<p align="center">I am an passionate uprising, self taught MERN stack developer. Experienced in Bootstrap, Vallina Javascript programming. Committed to patience, dedicated and face challenges headon.</p>
+<p align="center">I am an passionate uprising, self taught MERN stack developer. Experienced in Bootstrap, Vanilla Javascript programming. Committed to patience, dedicated and face challenges headon.</p>
 
 
 - 🔭 I’m currently working on [Javascript Calculator](github.com/mulfranck/calculator)
