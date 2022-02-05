@@ -2,7 +2,7 @@
 <p align="center">I am an passionate uprising, self taught MERN stack developer. Experienced in Bootstrap, Vanilla Javascript programming. Committed to patience, dedicated and face challenges headon.</p>
 
 
-- 🔭 I’m currently working on [Javascript Calculator](github.com/mulfranck/calculator)
+- 🔭 I’m currently working on [Javascript myLibrary](https://mulfranck.github.io/mylibrary/)
 - 🌱 I’m currently learning **Vanilla Javascript** and **Python (school required)**
 
 <h2 align="left">Connect with me:</h2>
