@@ -2,8 +2,8 @@
 <p align="center">I am an passionate uprising, self taught MERN stack developer. Experienced in Bootstrap, Vanilla Javascript programming. Committed to patience, dedicated and face challenges headon.</p>
 
 
-- 🔭 I’m currently working on [my portifolio](https://github.com/mulfranck/)
-- 🌱 I’m currently learning **Vanilla Javascript** and **Python (school required)**
+- 🔭 I’m currently working on [a Todo web app implememting with the SOLID](https://github.com/mulfranck/)
+- 🌱 I’m currently learning **Vanilla Javascript - Async programing**.
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
