@@ -7,10 +7,11 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="https://linkedin.com/in/mulfranck" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mulfranck on linkedin" /></a>
-<a href="https://t.me/mulfranck" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Mul Franck on telegram" /></a>
-<a href="https://discord.gg/mulfranck#1485" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="mulfranck on discord" /></a>
-<a href="mailto:mulfranck5@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Mul Franck on gmail" /></a>
+<a href="https://linkedin.com/in/mulfranck" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact Franclin Muluh on LinkedIn" /></a>
+<a href="https://t.me/mulfranck" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Franclin Muluh on Telegram" /></a>
+<a href="https://twitter.com/mulfranck" target="blanck"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Franclin Muluh on Twittef" /></a>
+<a href="https://discord.gg/mulfranck#1485" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="mulfranck on Discord" /></a>
+<a href="mailto:mulfranck5@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Mul Franck on Gmail" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
