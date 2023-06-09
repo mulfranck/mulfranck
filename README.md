@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulfranck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="mul franck streak"/>
 </p>
 <a href="https://github.com/mulfranck">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=HTML,ruby, php" alt="Top Languages" width=48% height=100%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulfranck&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=HTML,ruby,PHP,hack,css" alt="Top Languages" width=48% height=100%/>
 </a>
 <a href="http://github.com/mulfranck" >
   <img src="https://github-readme-stats.vercel.app/api?username=mulfranck&show_icons=true&hide=stars,&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="mulfranck's GitHub stats" width=48% height=100%/>
